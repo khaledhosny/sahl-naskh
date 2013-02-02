@@ -1,0 +1,50 @@
+StartChar: uni0695
+Encoding: 1685 1685 361
+Width: 909
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 25
+ 1
+ 208
+ 30
+ 224
+ 30
+ 2
+ 144
+ 30
+ 160
+ 30
+ 2
+ 80
+ 30
+ 96
+ 30
+ 2
+ 32
+ 30
+ 48
+ 30
+ 2
+ 16
+ 30
+ 1
+ 30
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 400 -1200 basechar 0
+AnchorPoint: "Anchor-0" 400 1060 basechar 0
+LayerCount: 2
+Fore
+Refer: 12 1585 N 1 0 0 1 0 0 3
+Refer: 693 -1 N 1 0 0 1 57 -2055 2
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0695.fina
+EndChar

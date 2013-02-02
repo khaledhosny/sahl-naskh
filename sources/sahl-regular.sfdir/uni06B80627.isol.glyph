@@ -1,0 +1,15 @@
+StartChar: uni06B80627.isol
+Encoding: 65742 -1 539
+Width: 1255
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-3" 820 -790 baselig 0
+AnchorPoint: "Anchor-2" 900 1740 baselig 0
+AnchorPoint: "Anchor-3" 140 -240 baselig 1
+AnchorPoint: "Anchor-2" 160 1500 baselig 1
+LayerCount: 2
+Fore
+Refer: 50 65275 N 1 0 0 1 0 0 2
+Refer: 64 -1 N 1 0 0 1 223 -19 2
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni06B8.init uni0627.fina
+EndChar

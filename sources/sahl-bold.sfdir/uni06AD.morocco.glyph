@@ -1,0 +1,40 @@
+StartChar: uni06AD.morocco
+Encoding: 65728 -1 525
+Width: 1786
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 3
+ 2
+ 1
+ 47
+ 58
+ 95
+ 58
+ 2
+ 31
+ 58
+ 47
+ 58
+ 2
+ 58
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 800 -160 basechar 0
+AnchorPoint: "Anchor-0" 1040 2100 basechar 0
+LayerCount: 2
+Fore
+Refer: 83 1705 N 1 0 0 1 0 0 3
+Refer: 688 -1 N 1 0 0 1 526 639 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni06AD.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni06AD.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni06AD.finamorocco
+EndChar

@@ -1,0 +1,56 @@
+StartChar: uni06440671.isol
+Encoding: 65558 -1 236
+Width: 1317
+GlyphClass: 3
+Flags: W
+TtInstrs:
+NPUSHB
+ 28
+ 3
+ 2
+ 191
+ 51
+ 223
+ 51
+ 2
+ 143
+ 51
+ 175
+ 51
+ 2
+ 111
+ 51
+ 127
+ 51
+ 2
+ 63
+ 51
+ 95
+ 51
+ 2
+ 15
+ 51
+ 31
+ 51
+ 2
+ 51
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-3" 1100 -160 baselig 0
+AnchorPoint: "Anchor-2" 1000 1800 baselig 0
+AnchorPoint: "Anchor-3" 400 -160 baselig 1
+AnchorPoint: "Anchor-2" 405 1730 baselig 1
+LayerCount: 2
+Fore
+Refer: 50 65275 N 1 0 0 1 0 0 3
+Refer: 113 -1 N 1 0 0 1 385 147 2
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0644.init uni0671.fina
+EndChar

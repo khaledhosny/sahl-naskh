@@ -1,0 +1,49 @@
+StartChar: alef_alt.isol
+Encoding: 65556 -1 123
+Width: 582
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 11
+ 2
+ 3
+ 0
+ 7
+ 3
+ 7
+ 14
+ 13
+ 10
+ 3
+ 19
+SVTCA[y-axis]
+MIAP[rnd]
+MDAP[rnd]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+410 1104 m 1,0,-1
+ 410 894 l 1,1,-1
+ 397 0 l 1,2,-1
+ 242 -20 l 1,3,4
+ 192 795 192 795 173 974 c 1,5,6
+ 146 1212 146 1212 146 1257 c 0,7,8
+ 146 1351 146 1351 217.5 1407.5 c 128,-1,9
+ 289 1464 289 1464 395 1464 c 1,10,11
+ 437 1312 437 1312 492 1167 c 1,12,-1
+ 410 1104 l 1,0,-1
+EndSplineSet
+EndChar

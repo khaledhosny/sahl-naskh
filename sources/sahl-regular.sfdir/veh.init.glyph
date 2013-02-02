@@ -1,0 +1,35 @@
+StartChar: veh.init
+Encoding: 64364 64364 198
+Width: 1012
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 4
+ 3
+ 2
+ 127
+ 49
+ 1
+ 95
+ 49
+ 1
+ 47
+ 49
+ 1
+ 49
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 55 -1 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 -196 414 2
+EndChar

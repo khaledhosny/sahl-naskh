@@ -1,0 +1,12 @@
+StartChar: uni069B.fina
+Encoding: 65634 -1 374
+Width: 2503
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 1780 -960 basechar 0
+AnchorPoint: "Anchor-0" 1680 880 basechar 0
+LayerCount: 2
+Fore
+Refer: 17 65202 N 1 0 0 1 0 0 3
+Refer: 64 -1 N 1 0 0 1 1221 -52 2
+EndChar

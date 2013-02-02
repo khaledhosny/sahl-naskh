@@ -1,0 +1,122 @@
+StartChar: uni06BE
+Encoding: 1726 1726 80
+AltUni2: 00fbaa.ffffffff.0
+Width: 1614
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 39
+ 41
+ 18
+ 37
+ 31
+ 25
+ 10
+ 3
+ 10
+ 8
+ 31
+ 39
+ 18
+ 6
+ 47
+ 46
+ 13
+ 34
+ 34
+ 23
+ 8
+ 39
+ 27
+ 44
+ 5
+ 20
+ 14
+ 20
+ 41
+ 71
+ 89
+ 20
+ 20
+ 0
+ 0
+ 6
+ 71
+ 89
+ 0
+ 19
+SVTCA[y-axis]
+MIAP[rnd]
+CALL
+SRP1
+SVTCA[y-axis]
+SHP[rp1]
+RTG
+MDAP[rnd]
+CALL
+SVTCA[y-axis]
+RTG
+MDAP[rnd]
+SRP2
+SLOOP
+IP
+SHP[rp1]
+SRP2
+IP
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 740 -160 basechar 0
+AnchorPoint: "Anchor-0" 700 1280 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+371 -20 m 0,0,1
+ 332 -20 332 -20 235.5 45.5 c 128,-1,2
+ 139 111 139 111 82 176 c 1,3,-1
+ 129 272 l 1,4,5
+ 243 246 243 246 395 246 c 0,6,7
+ 499 246 499 246 563 254 c 1,8,9
+ 477 363 477 363 477 479 c 0,10,11
+ 477 574 477 574 534.5 689.5 c 128,-1,12
+ 592 805 592 805 674 864 c 1,13,-1
+ 743 1112 l 1,14,15
+ 940 1064 940 1064 1112.5 933 c 128,-1,16
+ 1285 802 1285 802 1388 621 c 128,-1,17
+ 1491 440 1491 440 1491 260 c 0,18,19
+ 1491 147 1491 147 1368 -63 c 1,20,21
+ 1203 -58 1203 -58 1055.5 -21 c 128,-1,22
+ 908 16 908 16 793 76 c 1,23,24
+ 618 -20 618 -20 371 -20 c 0,0,1
+600 481 m 1,25,26
+ 686 387 686 387 813 328 c 1,27,-1
+ 815 330 l 1,28,29
+ 863 355 863 355 893.5 413.5 c 128,-1,30
+ 924 472 924 472 924 537 c 0,31,32
+ 924 592 924 592 885.5 638 c 128,-1,33
+ 847 684 847 684 803 684 c 0,34,35
+ 739 684 739 684 690 634 c 128,-1,36
+ 641 584 641 584 600 481 c 1,25,26
+1079 530 m 0,37,38
+ 1079 378 1079 378 1004 262 c 1,39,40
+ 1120 231 1120 231 1356 199 c 1,41,42
+ 1291 373 1291 373 1218.5 483.5 c 128,-1,43
+ 1146 594 1146 594 1053 672 c 1,44,45
+ 1079 603 1079 603 1079 530 c 0,37,38
+EndSplineSet
+Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni06BE.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni06BE.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni06BE.fina
+EndChar

@@ -1,0 +1,65 @@
+StartChar: uni069E.init
+Encoding: 65644 -1 387
+Width: 1915
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 37
+ 4
+ 3
+ 2
+ 255
+ 57
+ 1
+ 223
+ 57
+ 239
+ 57
+ 2
+ 191
+ 57
+ 207
+ 57
+ 2
+ 159
+ 57
+ 175
+ 57
+ 2
+ 127
+ 57
+ 143
+ 57
+ 2
+ 79
+ 57
+ 111
+ 57
+ 2
+ 31
+ 57
+ 47
+ 57
+ 2
+ 57
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 940 -160 basechar 0
+AnchorPoint: "Anchor-0" 900 1700 basechar 0
+LayerCount: 2
+Fore
+Refer: 19 65211 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 369 131 2
+EndChar

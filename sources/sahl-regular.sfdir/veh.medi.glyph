@@ -1,0 +1,35 @@
+StartChar: veh.medi
+Encoding: 64365 64365 199
+Width: 932
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 4
+ 3
+ 2
+ 95
+ 55
+ 1
+ 79
+ 55
+ 1
+ 47
+ 55
+ 1
+ 55
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 56 -1 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 -138 213 2
+EndChar

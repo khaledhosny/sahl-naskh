@@ -1,0 +1,120 @@
+StartChar: uni062D
+Encoding: 1581 1581 7
+AltUni2: 00fea1.ffffffff.0
+Width: 1579
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 36
+ 28
+ 41
+ 19
+ 35
+ 35
+ 44
+ 41
+ 7
+ 4
+ 47
+ 48
+ 44
+ 22
+ 0
+ 16
+ 22
+ 71
+ 89
+ 16
+ 16
+ 10
+ 34
+ 38
+ 38
+ 31
+ 70
+ 89
+ 38
+ 28
+ 10
+ 0
+ 70
+ 89
+ 4
+ 10
+ 17
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp1]
+CALL
+SVTCA[y-axis]
+RTG
+MIAP[rnd]
+CALL
+SRP1
+SVTCA[y-axis]
+SHP[rp1]
+SRP2
+IP
+RTG
+MDAP[rnd]
+CALL
+SRP1
+SRP2
+SVTCA[y-axis]
+IP
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 400 -750 basechar 0
+AnchorPoint: "Anchor-0" 800 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+494 731 m 0,0,1
+ 446 731 446 731 409 724 c 128,-1,2
+ 372 717 372 717 339 703.5 c 128,-1,3
+ 306 690 306 690 219 637 c 1,4,5
+ 197 659 197 659 180.5 701 c 128,-1,6
+ 164 743 164 743 164 782 c 0,7,8
+ 164 894 164 894 251.5 956 c 128,-1,9
+ 339 1018 339 1018 485 1018 c 0,10,11
+ 564 1018 564 1018 649 998.5 c 128,-1,12
+ 734 979 734 979 871 929 c 0,13,14
+ 995 883 995 883 1093 861.5 c 128,-1,15
+ 1191 840 1191 840 1290 840 c 2,16,-1
+ 1338 840 l 2,17,18
+ 1457 840 1457 840 1509 844 c 1,19,-1
+ 1411 573 l 1,20,21
+ 1347 565 1347 565 1233 565 c 0,22,23
+ 1176 565 1176 565 1124 569 c 1,24,25
+ 939 533 939 533 760 436.5 c 128,-1,26
+ 581 340 581 340 479 214.5 c 128,-1,27
+ 377 89 377 89 377 -41 c 0,28,29
+ 377 -216 377 -216 526 -318 c 128,-1,30
+ 675 -420 675 -420 905 -420 c 0,31,32
+ 1032 -420 1032 -420 1162.5 -404 c 128,-1,33
+ 1293 -388 1293 -388 1485 -344 c 1,34,-1
+ 1518 -446 l 1,35,36
+ 1332 -551 1332 -551 1157.5 -623.5 c 128,-1,37
+ 983 -696 983 -696 899 -696 c 0,38,39
+ 582 -696 582 -696 418 -537.5 c 128,-1,40
+ 254 -379 254 -379 254 -68 c 0,41,42
+ 254 155 254 155 391.5 352 c 128,-1,43
+ 529 549 529 549 756 662 c 1,44,45
+ 680 689 680 689 616 710 c 128,-1,46
+ 552 731 552 731 494 731 c 0,0,1
+EndSplineSet
+Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni062D.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni062D.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni062D.fina
+EndChar

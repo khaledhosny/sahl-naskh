@@ -1,0 +1,75 @@
+StartChar: uni062F
+Encoding: 1583 1583 11
+AltUni2: 00fea9.ffffffff.0
+Width: 1047
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 18
+ 19
+ 15
+ 10
+ 24
+ 24
+ 15
+ 2
+ 3
+ 30
+ 31
+ 19
+ 0
+ 8
+ 70
+ 89
+ 5
+ 0
+ 20
+SVTCA[y-axis]
+MIAP[rnd]
+SHP[rp2]
+CALL
+SVTCA[y-axis]
+RTG
+MDAP[rnd]
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 450 -160 basechar 0
+AnchorPoint: "Anchor-0" 350 1200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+406 -41 m 0,0,1
+ 82 -41 82 -41 82 147 c 0,2,3
+ 82 198 82 198 101 250 c 128,-1,4
+ 120 302 120 302 154 342 c 1,5,6
+ 213 292 213 292 290.5 269 c 128,-1,7
+ 368 246 368 246 481 246 c 0,8,9
+ 638 246 638 246 797 295 c 1,10,11
+ 736 409 736 409 668 509 c 0,12,13
+ 567 658 567 658 540.5 712.5 c 128,-1,14
+ 514 767 514 767 514 801 c 0,15,16
+ 514 854 514 854 541.5 902.5 c 128,-1,17
+ 569 951 569 951 617 989.5 c 128,-1,18
+ 665 1028 665 1028 715 1044 c 1,19,20
+ 747 930 747 930 787 827 c 128,-1,21
+ 827 724 827 724 862 632.5 c 128,-1,22
+ 897 541 897 541 920.5 462.5 c 128,-1,23
+ 944 384 944 384 944 319 c 0,24,25
+ 944 285 944 285 917 199 c 128,-1,26
+ 890 113 890 113 860 53 c 1,27,28
+ 774 8 774 8 651.5 -16.5 c 128,-1,29
+ 529 -41 529 -41 406 -41 c 0,0,1
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni062F.fina
+EndChar

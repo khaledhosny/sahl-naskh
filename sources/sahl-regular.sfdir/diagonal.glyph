@@ -1,0 +1,39 @@
+StartChar: diagonal
+Encoding: 65874 -1 749
+Width: 1024
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_6
+ 9
+ 2
+ 16
+ 15
+ 7
+ 0
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+78 1270 m 1,0,1
+ 62 1337 62 1337 62 1364 c 0,2,3
+ 62 1376 62 1376 66 1378 c 0,4,5
+ 122 1407 122 1407 435 1558 c 128,-1,6
+ 748 1709 748 1709 909 1784 c 1,7,8
+ 943 1759 943 1759 943 1723 c 1,9,-1
+ 942 1708 l 1,10,11
+ 932 1664 932 1664 883 1642 c 0,12,13
+ 496 1468 496 1468 327 1388.5 c 128,-1,14
+ 158 1309 158 1309 78 1270 c 1,0,1
+EndSplineSet
+EndChar

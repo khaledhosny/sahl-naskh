@@ -1,0 +1,37 @@
+StartChar: uni06AD.finamorocco
+Encoding: 65729 -1 526
+Width: 1911
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 3
+ 2
+ 1
+ 47
+ 63
+ 95
+ 63
+ 2
+ 31
+ 63
+ 47
+ 63
+ 2
+ 63
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 700 -160 basechar 0
+AnchorPoint: "Anchor-0" 1140 2100 basechar 0
+LayerCount: 2
+Fore
+Refer: 84 64399 N 1 0 0 1 0 0 3
+Refer: 688 -1 N 1 0 0 1 600 639 2
+EndChar

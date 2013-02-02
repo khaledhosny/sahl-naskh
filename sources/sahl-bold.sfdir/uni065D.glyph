@@ -1,0 +1,13 @@
+StartChar: uni065D
+Encoding: 1629 1629 570
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-4" 160 1660 basemark 0
+AnchorPoint: "Anchor-4" 180 1020 mark 0
+AnchorPoint: "Anchor-2" 180 1020 mark 0
+AnchorPoint: "Anchor-0" 180 1020 mark 0
+LayerCount: 2
+Fore
+Refer: 101 1615 N -0.999878 0 0 1 401 70 2
+EndChar

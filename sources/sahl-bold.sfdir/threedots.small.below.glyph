@@ -1,0 +1,72 @@
+StartChar: threedots.small.below
+Encoding: 65836 -1 689
+Width: 1024
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 0
+ 4
+ 16
+ 20
+ 11
+ 7
+ 7
+ 20
+ 4
+ 3
+ 24
+ 25
+ 18
+ 22
+ 22
+ 2
+ 6
+ 6
+ 9
+ 14
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SHP[rp1]
+MDAP[rnd]
+MDRP[min,rnd,black]
+IP
+MDAP[rnd]
+MDRP[min,rnd,black]
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+516 -399 m 1,0,1
+ 465 -472 465 -472 387 -545 c 1,2,3
+ 299 -476 299 -476 244 -414 c 1,4,5
+ 293 -368 293 -368 383 -268 c 1,6,-1
+ 516 -399 l 1,0,1
+825 -367 m 1,7,8
+ 779 -437 779 -437 698 -516 c 1,9,10
+ 605 -445 605 -445 555 -381 c 1,11,12
+ 592 -347 592 -347 629 -307 c 128,-1,13
+ 666 -267 666 -267 694 -238 c 1,14,15
+ 737 -285 737 -285 825 -367 c 1,7,8
+684 -612 m 1,16,17
+ 594 -709 594 -709 561 -731 c 1,18,19
+ 482 -682 482 -682 424 -612 c 1,20,21
+ 486 -557 486 -557 553 -479 c 1,22,23
+ 599 -542 599 -542 684 -612 c 1,16,17
+EndSplineSet
+EndChar

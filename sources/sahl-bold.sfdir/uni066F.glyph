@@ -1,0 +1,118 @@
+StartChar: uni066F
+Encoding: 1647 1647 59
+Width: 1571
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 36
+ 28
+ 23
+ 42
+ 7
+ 36
+ 0
+ 15
+ 15
+ 7
+ 23
+ 3
+ 45
+ 46
+ 20
+ 31
+ 70
+ 89
+ 20
+ 28
+ 2
+ 4
+ 25
+ 25
+ 11
+ 4
+ 11
+ 39
+ 70
+ 89
+ 11
+ 4
+ 34
+ 71
+ 89
+ 4
+ 20
+SVTCA[y-axis]
+MIAP[rnd]
+CALL
+SVTCA[y-axis]
+RTG
+MDAP[rnd]
+CALL
+SRP1
+SRP2
+SVTCA[y-axis]
+IP
+RTG
+MDAP[rnd]
+SRP2
+IP
+MIAP[rnd]
+CALL
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+SRP1
+SHP[rp1]
+SHP[rp1]
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 740 -840 basechar 0
+AnchorPoint: "Anchor-0" 900 1060 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1288 -164 m 1,0,1
+ 1282 -14 1282 -14 1255 106 c 1,2,3
+ 1108 -41 1108 -41 950 -41 c 0,4,5
+ 802 -41 802 -41 719.5 45.5 c 128,-1,6
+ 637 132 637 132 637 291 c 0,7,8
+ 637 427 637 427 686.5 555 c 128,-1,9
+ 736 683 736 683 818 761.5 c 128,-1,10
+ 900 840 900 840 989 840 c 0,11,12
+ 1118 840 1118 840 1224 739 c 128,-1,13
+ 1330 638 1330 638 1389 454 c 128,-1,14
+ 1448 270 1448 270 1448 33 c 0,15,16
+ 1448 -120 1448 -120 1384 -250 c 128,-1,17
+ 1320 -380 1320 -380 1201 -478 c 128,-1,18
+ 1082 -576 1082 -576 918 -636 c 128,-1,19
+ 754 -696 754 -696 606 -696 c 0,20,21
+ 390 -696 390 -696 277 -569.5 c 128,-1,22
+ 164 -443 164 -443 164 -201 c 0,23,24
+ 164 -76 164 -76 223 147 c 1,25,-1
+ 330 121 l 1,26,27
+ 297 10 297 10 297 -70 c 0,28,29
+ 297 -237 297 -237 381 -323.5 c 128,-1,30
+ 465 -410 465 -410 633 -410 c 0,31,32
+ 788 -410 788 -410 956 -349.5 c 128,-1,33
+ 1124 -289 1124 -289 1288 -164 c 1,0,1
+997 223 m 0,34,35
+ 1101 223 1101 223 1212 260 c 1,36,37
+ 1165 394 1165 394 1096.5 472.5 c 128,-1,38
+ 1028 551 1028 551 946 551 c 0,39,40
+ 868 551 868 551 817 497 c 128,-1,41
+ 766 443 766 443 766 371 c 256,42,43
+ 766 299 766 299 825.5 261 c 128,-1,44
+ 885 223 885 223 997 223 c 0,34,35
+EndSplineSet
+Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni066F.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni066F.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni066F.fina
+EndChar

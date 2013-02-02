@@ -1,0 +1,28 @@
+StartChar: uni0634.medi
+Encoding: 65208 65208 177
+Width: 1679
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 3
+ 2
+ 1
+ 47
+ 87
+ 1
+ 87
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 800 -160 basechar 0
+AnchorPoint: "Anchor-0" 780 1600 basechar 0
+LayerCount: 2
+Fore
+Refer: 16 65204 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 240 41 2
+EndChar

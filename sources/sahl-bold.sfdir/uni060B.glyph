@@ -1,0 +1,75 @@
+StartChar: uni060B
+Encoding: 1547 1547 564
+Width: 1030
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 45
+ 3
+ 96
+ 49
+ 112
+ 49
+ 2
+ 64
+ 49
+ 80
+ 49
+ 2
+ 32
+ 49
+ 48
+ 49
+ 2
+ 0
+ 49
+ 16
+ 49
+ 2
+ 49
+ 2
+ 223
+ 43
+ 1
+ 127
+ 43
+ 159
+ 43
+ 2
+ 95
+ 43
+ 1
+ 47
+ 43
+ 79
+ 43
+ 2
+ 15
+ 43
+ 31
+ 43
+ 2
+ 43
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+DELTAP1
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 55 -1 N 1 0 0 1 0 0 2
+Refer: 61 -1 N 1 0 0 1 -110 493 2
+Refer: 110 1622 N 1 0 0 1 532 117 2
+EndChar

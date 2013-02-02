@@ -1,0 +1,45 @@
+StartChar: uni064D
+Encoding: 1613 1613 99
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_6
+ 5
+ 64
+ 0
+ 128
+ 14
+ 8
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SMD
+MDRP[rp0,min,rnd,white]
+SMD
+MDRP[min,rnd,black]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-5" 220 -680 basemark 0
+AnchorPoint: "Anchor-5" 200 -150 mark 0
+AnchorPoint: "Anchor-3" 200 -150 mark 0
+AnchorPoint: "Anchor-1" 200 -150 mark 0
+LayerCount: 2
+Fore
+SplineSet
+492 -360 m 1,0,-1
+ 495 -392 l 1,1,2
+ 495 -467 495 -467 426 -500 c 0,3,4
+ 253 -581 253 -581 -57 -676 c 1,5,-1
+ -43 -547 l 1,6,7
+ 213 -471 213 -471 492 -360 c 1,0,-1
+457 -152 m 1,8,-1
+ 460 -184 l 1,9,10
+ 460 -214 460 -214 445.5 -247 c 128,-1,11
+ 431 -280 431 -280 391 -297 c 0,12,13
+ 205 -376 205 -376 -88 -459 c 1,14,-1
+ -78 -338 l 1,15,16
+ 200 -254 200 -254 457 -152 c 1,8,-1
+EndSplineSet
+EndChar

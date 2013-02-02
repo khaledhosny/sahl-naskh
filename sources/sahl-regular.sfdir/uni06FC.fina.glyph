@@ -1,0 +1,43 @@
+StartChar: uni06FC.fina
+Encoding: 65725 -1 520
+Width: 1090
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 16
+ 2
+ 143
+ 66
+ 1
+ 31
+ 66
+ 1
+ 66
+ 3
+ 47
+ 70
+ 1
+ 15
+ 70
+ 1
+ 70
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SHC[rp1]
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 340 -880 basechar 0
+AnchorPoint: "Anchor-0" 480 1460 basechar 0
+LayerCount: 2
+Fore
+Refer: 29 65226 N 1 0 0 1 0 0 2
+Refer: 121 -1 N 1 0 0 1 408 12 2
+Refer: 61 -1 N 1 0 0 1 80 246 2
+EndChar

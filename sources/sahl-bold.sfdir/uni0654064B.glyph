@@ -1,0 +1,16 @@
+StartChar: uni0654064B
+Encoding: 65567 -1 272
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-4" 40 2200 basemark 0
+AnchorPoint: "Anchor-4" 140 1160 mark 0
+AnchorPoint: "Anchor-2" 140 1160 mark 0
+AnchorPoint: "Anchor-0" 140 1160 mark 0
+LayerCount: 2
+Fore
+Refer: 107 1620 N 1 0 0 1 0 0 3
+Refer: 98 1611 N 1 0 0 1 -130 666 2
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni0654 uni064B
+Ligature2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable" uni064B uni0654
+EndChar

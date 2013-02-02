@@ -1,0 +1,54 @@
+StartChar: twodots.vert.above
+Encoding: 65831 -1 684
+Width: 647
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 13
+ 8
+ 12
+ 0
+ 4
+ 12
+ 4
+ 16
+ 17
+ 10
+ 6
+ 2
+ 14
+ 2
+SVTCA[y-axis]
+MDAP[rnd]
+MDAP[rnd]
+SRP2
+IP
+IP
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+IP
+SRP1
+SHP[rp1]
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+479 961 m 1,0,1
+ 424 880 424 880 336 797 c 1,2,3
+ 237 873 237 873 176 944 c 1,4,5
+ 223 987 223 987 332 1106 c 1,6,7
+ 353 1083 353 1083 479 961 c 1,0,1
+434 1364 m 1,8,9
+ 379 1283 379 1283 291 1200 c 1,10,11
+ 190 1277 190 1277 131 1348 c 1,12,13
+ 184 1396 184 1396 287 1509 c 1,14,15
+ 308 1486 308 1486 434 1364 c 1,8,9
+EndSplineSet
+EndChar

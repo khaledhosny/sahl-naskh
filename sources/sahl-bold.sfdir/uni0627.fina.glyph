@@ -1,0 +1,54 @@
+StartChar: uni0627.fina
+Encoding: 65166 65166 6
+Width: 694
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 0
+ 15
+ 15
+ 16
+ 7
+ 17
+ 10
+ 5
+ 70
+ 89
+ 10
+ 19
+ 0
+ 0
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+CALL
+SRP1
+SVTCA[x-axis]
+SHP[rp1]
+SRP2
+IP
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 460 -140 basechar 0
+AnchorPoint: "Anchor-0" 300 1680 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+471 1597 m 1,0,1
+ 451 717 451 717 451 334 c 1,2,3
+ 504 298 504 298 565 282 c 128,-1,4
+ 626 266 626 266 715 266 c 0,5,6
+ 735 266 735 266 735 246 c 2,7,-1
+ 735 0 l 2,8,9
+ 735 -20 735 -20 715 -20 c 0,10,11
+ 552 -20 552 -20 458.5 36.5 c 128,-1,12
+ 365 93 365 93 348 197 c 0,13,14
+ 251 792 251 792 184 1438 c 1,15,-1
+ 471 1597 l 1,0,1
+EndSplineSet
+EndChar

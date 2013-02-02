@@ -1,0 +1,55 @@
+StartChar: uni0667
+Encoding: 1639 1639 72
+Width: 1169
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 12
+ 16
+ 12
+ 6
+ 3
+ 21
+ 22
+ 12
+ 15
+ 9
+ 6
+ 0
+ 20
+SVTCA[y-axis]
+MIAP[rnd]
+MIAP[rnd]
+SHP[rp1]
+IP
+SRP1
+SRP2
+SVTCA[x-axis]
+SLOOP
+IP
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+535 -39 m 1,0,1
+ 435 253 435 253 362 422.5 c 128,-1,2
+ 289 592 289 592 152 848 c 2,3,-1
+ 47 1044 l 2,4,5
+ 22 1092 22 1092 22 1142 c 0,6,7
+ 22 1221 22 1221 71.5 1289 c 128,-1,8
+ 121 1357 121 1357 205 1395 c 1,9,10
+ 300 1246 300 1246 425.5 923.5 c 128,-1,11
+ 551 601 551 601 629 305 c 1,12,13
+ 667 577 667 577 765.5 895 c 128,-1,14
+ 864 1213 864 1213 963 1393 c 1,15,-1
+ 1149 1167 l 1,16,17
+ 1027 943 1027 943 960.5 797 c 128,-1,18
+ 894 651 894 651 828.5 476.5 c 128,-1,19
+ 763 302 763 302 696 76 c 1,20,-1
+ 535 -39 l 1,0,1
+EndSplineSet
+Substitution2: "'locl' Localized Forms in Arabic lookup 1 subtable" uni06F7.urdu
+EndChar

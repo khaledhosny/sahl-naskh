@@ -1,0 +1,36 @@
+StartChar: uni0685
+Encoding: 1669 1669 331
+Width: 1532
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 10
+ 3
+ 2
+ 1
+ 95
+ 54
+ 1
+ 15
+ 54
+ 1
+ 54
+SVTCA[y-axis]
+MDAP[rnd]
+DELTAP1
+DELTAP1
+SHC[rp1]
+SHC[rp1]
+SHC[rp1]
+EndTTInstrs
+AnchorPoint: "Anchor-1" 400 -750 basechar 0
+AnchorPoint: "Anchor-0" 800 1800 basechar 0
+LayerCount: 2
+Fore
+Refer: 7 1581 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 231 330 2
+Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni0685.medi
+Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni0685.init
+Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0685.fina
+EndChar

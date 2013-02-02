@@ -1,0 +1,36 @@
+StartChar: onedot.below
+Encoding: 65554 -1 121
+Width: 1024
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_7
+ 0
+ 4
+ 4
+ 8
+ 9
+ 2
+ 6
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[min,rnd,black]
+SRP1
+SRP2
+SVTCA[x-axis]
+IP
+SRP1
+SHP[rp1]
+IUP[x]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+598 -346 m 1,0,1
+ 547 -423 547 -423 442 -522 c 1,2,3
+ 335 -439 335 -439 270 -365 c 1,4,5
+ 377 -260 377 -260 438 -188 c 1,6,7
+ 521 -279 521 -279 598 -346 c 1,0,1
+EndSplineSet
+EndChar
