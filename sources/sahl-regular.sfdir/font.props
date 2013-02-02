@@ -2,7 +2,7 @@ SplineFontDB: 3.0
 FontName: Sahl
 FullName: Sahl
 FamilyName: Sahl
-Weight: Book
+Weight: Regular
 Copyright: Digitized data copyright (c) 2010, Google Corporation.
 Version: 1.00
 ItalicAngle: 0
@@ -2200,7 +2200,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "Digitized data copyright +AKkA 2010, Google Corporation." "" "Regular" "" "" "Version 1.00" "" "Droid is a trademark of Google and may be registered in certain jurisdictions." "Ascender Corporation" "Pascal Zoghbi " "Droid Arabic Naskh is an Arabic type designed for use in Google+ISIA products such as Google ChromeOS+ISIA and Android+ISIA. Designed to complement the Latin, Greek and Cyrillic provided in the Droid Serif family, the Arabic matches the color, alignment and design detail of the Droid Serif allowing them to be used together for multi-lingual typesetting. This Naskh style is optimized for reading Arabic script on screen. The large +IBgA-loop height+IBkA and +IBgA-tooth height+IBkA help prevent readers from having to zoom web pages to a larger size in order to read them. The traditional Naskh forms are softened for less formal documents such as periodicals and journals. The letterforms structures are based on the calligraphic grammatical rules of the Naskh writing style while drawn with a contemporary feel." "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" 
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Pascal Zoghbi " "Droid Arabic Naskh is an Arabic type designed for use in Google+ISIA products such as Google ChromeOS+ISIA and Android+ISIA. Designed to complement the Latin, Greek and Cyrillic provided in the Droid Serif family, the Arabic matches the color, alignment and design detail of the Droid Serif allowing them to be used together for multi-lingual typesetting. This Naskh style is optimized for reading Arabic script on screen. The large +IBgA-loop height+IBkA and +IBgA-tooth height+IBkA help prevent readers from having to zoom web pages to a larger size in order to read them. The traditional Naskh forms are softened for less formal documents such as periodicals and journals. The letterforms structures are based on the calligraphic grammatical rules of the Naskh writing style while drawn with a contemporary feel." "http://www.ascendercorp.com/" "" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" 
 GaspTable: 3 8 10 10 7 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
