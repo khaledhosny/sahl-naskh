@@ -96,5 +96,4 @@ SplineSet
  1997 -269 1997 -269 2105 -150 c 1,121,122
  2121 -167 2121 -167 2253 -295 c 1,115,116
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Arabic lookup 8 subtable" uni0631 uni064A.init uni0627.fina uni0644
 EndChar
