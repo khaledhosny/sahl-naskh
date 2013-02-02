@@ -3,21 +3,11 @@ Encoding: 1759 1759 503
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-4" 0 1400 basemark 0
-AnchorPoint: "Anchor-4" 0 1000 mark 0
-AnchorPoint: "Anchor-2" 0 1000 mark 0
-AnchorPoint: "Anchor-0" 0 1000 mark 0
+AnchorPoint: "Anchor-4" 160 1560 basemark 0
+AnchorPoint: "Anchor-4" 180 1010 mark 0
+AnchorPoint: "Anchor-2" 180 1010 mark 0
+AnchorPoint: "Anchor-0" 180 1010 mark 0
 LayerCount: 2
 Fore
-SplineSet
-0 997 m 0,0,1
- -53 997 -53 997 -84 1029 c 128,-1,2
- -115 1061 -115 1061 -115 1120 c 256,3,4
- -115 1179 -115 1179 -84.5 1211 c 128,-1,5
- -54 1243 -54 1243 0 1243 c 0,6,7
- 55 1243 55 1243 85 1209.5 c 128,-1,8
- 115 1176 115 1176 115 1120 c 256,9,10
- 115 1064 115 1064 85 1030.5 c 128,-1,11
- 55 997 55 997 0 997 c 0,0,1
-EndSplineSet
+Refer: 105 1618 N 0.9 0 0 0.9 18.2 120.65 2
 EndChar
