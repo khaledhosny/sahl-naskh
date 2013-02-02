@@ -3,39 +3,6 @@ Encoding: 64364 64364 198
 Width: 1030
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 19
- 4
- 3
- 2
- 159
- 52
- 1
- 127
- 52
- 1
- 79
- 52
- 1
- 47
- 52
- 1
- 31
- 52
- 1
- 52
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-SHC[rp1]
-SHC[rp1]
-SHC[rp1]
-EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 55 -1 N 1 0 0 1 0 0 2

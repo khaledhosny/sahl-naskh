@@ -3,31 +3,6 @@ Encoding: 1752 1752 498
 Width: 0
 GlyphClass: 4
 Flags: W
-TtInstrs:
-NPUSHB
- 9
- 17
- 11
- 4
- 2
- 22
- 0
- 0
- 5
- 4
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-SHP[rp1]
-MDAP[rnd]
-MDRP[min,rnd,black]
-IP
-SRP0
-MDRP[rp0,min,rnd,black]
-MDRP[min,rnd,black]
-IUP[x]
-IUP[y]
-EndTTInstrs
 AnchorPoint: "Anchor-4" 0 1400 basemark 0
 AnchorPoint: "Anchor-4" 40 960 mark 0
 AnchorPoint: "Anchor-2" 40 960 mark 0

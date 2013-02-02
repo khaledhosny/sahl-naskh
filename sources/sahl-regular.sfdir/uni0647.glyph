@@ -4,50 +4,6 @@ AltUni2: 00fee9.ffffffff.0
 Width: 983
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 22
- 20
- 12
- 22
- 2
- 25
- 0
- 0
- 5
- 2
- 12
- 4
- 32
- 31
- 17
- 28
- 71
- 89
- 17
- 19
- 22
- 8
- 16
-SVTCA[y-axis]
-MIAP[rnd]
-SHP[rp1]
-MIAP[rnd]
-CALL
-SRP1
-SRP2
-SVTCA[x-axis]
-SLOOP
-IP
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
 AnchorPoint: "Anchor-1" 480 -160 basechar 0
 AnchorPoint: "Anchor-0" 400 1200 basechar 0
 LayerCount: 2

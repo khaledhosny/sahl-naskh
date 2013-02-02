@@ -3,66 +3,6 @@ Encoding: 1655 1655 287
 Width: 1378
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 40
- 4
- 3
- 95
- 86
- 127
- 86
- 2
- 15
- 86
- 1
- 86
- 2
- 207
- 53
- 1
- 175
- 53
- 1
- 143
- 53
- 1
- 111
- 53
- 127
- 53
- 2
- 79
- 53
- 95
- 53
- 2
- 31
- 53
- 47
- 53
- 2
- 15
- 53
- 1
- 53
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-SHC[rp1]
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-DELTAP1
-SHC[rp1]
-SHC[rp1]
-EndTTInstrs
 AnchorPoint: "Anchor-1" 560 -600 basechar 0
 AnchorPoint: "Anchor-0" 360 1460 basechar 0
 LayerCount: 2

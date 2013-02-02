@@ -3,45 +3,6 @@ Encoding: 1765 1765 508
 Width: 0
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 20
- 15
- 25
- 64
- 29
- 32
- 72
- 25
- 64
- 14
- 17
- 72
- 25
- 25
- 3
- 30
- 64
- 21
- 192
- 9
- 3
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-SMD
-MDRP[rp0,min,rnd,grey]
-SMD
-MDRP[min,rnd,black]
-SRP2
-IP
-MDAP[rnd]
-CALL
-CALL
-MDRP[min,rnd,black]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet

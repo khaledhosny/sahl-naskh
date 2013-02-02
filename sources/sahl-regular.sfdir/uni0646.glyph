@@ -4,18 +4,6 @@ AltUni2: 00fee5.ffffffff.0
 Width: 1413
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHB_5
- 1
- 15
- 31
- 1
- 31
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-SHC[rp1]
-EndTTInstrs
 AnchorPoint: "Anchor-1" 640 -800 basechar 0
 AnchorPoint: "Anchor-0" 600 800 basechar 0
 LayerCount: 2

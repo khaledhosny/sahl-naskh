@@ -3,20 +3,6 @@ Encoding: 1885 1885 618
 Width: 1776
 GlyphClass: 2
 Flags: W
-TtInstrs:
-PUSHB_6
- 2
- 1
- 47
- 47
- 1
- 47
-SVTCA[y-axis]
-MDAP[rnd]
-DELTAP1
-SHC[rp1]
-SHC[rp1]
-EndTTInstrs
 AnchorPoint: "Anchor-1" 340 -780 basechar 0
 AnchorPoint: "Anchor-0" 540 2000 basechar 0
 LayerCount: 2

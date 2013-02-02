@@ -3,64 +3,6 @@ Encoding: 65547 -1 63
 Width: 1024
 GlyphClass: 2
 Flags: W
-TtInstrs:
-NPUSHB
- 29
- 22
- 18
- 0
- 5
- 9
- 13
- 13
- 5
- 18
- 3
- 27
- 26
- 24
- 0
- 20
- 1
- 224
- 20
- 240
- 20
- 2
- 20
- 20
- 11
- 7
- 2
- 2
- 16
- 11
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-IP
-MDAP[rnd]
-MDRP[min,rnd,black]
-SRP1
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-DELTAP2
-MDRP[min,rnd,black]
-SRP1
-SRP2
-SVTCA[x-axis]
-SLOOP
-IP
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
