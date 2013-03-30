@@ -3,8 +3,8 @@ Encoding: 1733 1733 493
 Width: 1128
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 480 -600 basechar 0
-AnchorPoint: "Anchor-0" 540 1000 basechar 0
+AnchorPoint: "Anchor-1" 480 -840 basechar 0
+AnchorPoint: "Anchor-0" 540 1127 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -51,4 +51,5 @@ SplineSet
  520 176 520 176 647 176 c 0,44,45
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni06C5.fina
+Colour: ffff00
 EndChar

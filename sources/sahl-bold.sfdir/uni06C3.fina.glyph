@@ -3,11 +3,12 @@ Encoding: 1731 1731 243
 Width: 1087
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 560 -160 basechar 0
-AnchorPoint: "Anchor-0" 560 1260 basechar 0
+AnchorPoint: "Anchor-1" 560 -368 basechar 0
+AnchorPoint: "Anchor-0" 560 1570 basechar 0
 LayerCount: 2
 Fore
 Refer: 118 1729 N 1 0 0 1 49 0 2
 Refer: 62 -1 N 1 0 0 1 82 -99 2
 Substitution2: "'isol' Isolated Forms in Arabic lookup 2 subtable" uni06C3
+Colour: ffff00
 EndChar

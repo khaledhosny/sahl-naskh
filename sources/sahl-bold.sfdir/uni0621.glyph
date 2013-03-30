@@ -4,8 +4,8 @@ AltUni2: 00fe80.ffffffff.0
 Width: 1300
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 720 -140 basechar 0
-AnchorPoint: "Anchor-0" 650 1060 basechar 0
+AnchorPoint: "Anchor-1" 720 -471 basechar 0
+AnchorPoint: "Anchor-0" 650 1278 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -35,4 +35,5 @@ SplineSet
  423 -68 423 -68 205 -119 c 1,36,-1
  164 0 l 1,0,1
 EndSplineSet
+Colour: ffff00
 EndChar

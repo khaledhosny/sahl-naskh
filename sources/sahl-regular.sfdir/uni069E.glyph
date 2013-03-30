@@ -3,8 +3,8 @@ Encoding: 1694 1694 385
 Width: 2640
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 1800 -160 basechar 0
-AnchorPoint: "Anchor-0" 1700 1600 basechar 0
+AnchorPoint: "Anchor-1" 1800 -348 basechar 0
+AnchorPoint: "Anchor-0" 1700 1837 basechar 0
 LayerCount: 2
 Fore
 Refer: 18 1589 N 1 0 0 1 0 0 3
@@ -12,4 +12,5 @@ Refer: 63 -1 N 1 0 0 1 1186 131 2
 Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni069E.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni069E.init
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni069E.fina
+Colour: ffff00
 EndChar

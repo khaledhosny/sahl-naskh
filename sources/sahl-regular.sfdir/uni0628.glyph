@@ -4,7 +4,7 @@ AltUni2: 00fe8f.ffffffff.0
 Width: 1860
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 980 -580 basechar 0
+AnchorPoint: "Anchor-1" 980 -849 basechar 0
 AnchorPoint: "Anchor-0" 940 1000 basechar 0
 LayerCount: 2
 Fore
@@ -13,4 +13,5 @@ Refer: 61 -1 N 1 0 0 1 553 -1314 2
 Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni0628.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni0628.init
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0628.fina
+Colour: ff0000
 EndChar

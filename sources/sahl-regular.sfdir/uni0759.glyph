@@ -3,12 +3,13 @@ Encoding: 1881 1881 608
 Width: 1006
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 560 -940 basechar 0
-AnchorPoint: "Anchor-0" 220 1920 basechar 0
+AnchorPoint: "Anchor-1" 560 -1219 basechar 0
+AnchorPoint: "Anchor-0" 220 2175 basechar 0
 LayerCount: 2
 Fore
 Refer: 11 1583 N 1 0 0 1 8 0 2
 Refer: 111 1557 N 1 0 0 1 330 424 2
 Refer: 685 -1 N 1 0 0 1 248 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0759.fina
+Colour: ffff00
 EndChar

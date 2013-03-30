@@ -3,10 +3,11 @@ Encoding: 65656 -1 404
 Width: 1970
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 1460 -160 basechar 0
-AnchorPoint: "Anchor-0" 1460 1760 basechar 0
+AnchorPoint: "Anchor-1" 1460 -304 basechar 0
+AnchorPoint: "Anchor-0" 1460 1972 basechar 0
 LayerCount: 2
 Fore
 Refer: 58 -1 N 1 0 0 1 0 0 3
 Refer: 63 -1 N 1 0 0 1 938 266 2
+Colour: ffff00
 EndChar

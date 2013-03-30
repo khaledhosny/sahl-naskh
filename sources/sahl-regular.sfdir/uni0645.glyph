@@ -4,8 +4,8 @@ AltUni2: 00fee1.ffffffff.0
 Width: 1178
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 740 -200 basechar 0
-AnchorPoint: "Anchor-0" 540 1060 basechar 0
+AnchorPoint: "Anchor-1" 740 -232 basechar 0
+AnchorPoint: "Anchor-0" 540 1149 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -38,4 +38,5 @@ EndSplineSet
 Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni0645.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni0645.init
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0645.fina
+Colour: ffff00
 EndChar

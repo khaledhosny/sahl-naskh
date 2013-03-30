@@ -3,12 +3,13 @@ Encoding: 1655 1655 287
 Width: 1341
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 480 -600 basechar 0
-AnchorPoint: "Anchor-0" 360 1460 basechar 0
+AnchorPoint: "Anchor-1" 480 -840 basechar 0
+AnchorPoint: "Anchor-0" 360 1650 basechar 0
 LayerCount: 2
 Fore
 Refer: 46 1608 N 1 0 0 1 31 0 2
 Refer: 101 1615 N 1 0 0 1 186 -146 2
 Refer: 107 1620 N 1 0 0 1 868 -249 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0677.fina
+Colour: ffff00
 EndChar

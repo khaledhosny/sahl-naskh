@@ -4,8 +4,8 @@ AltUni2: 00fead.ffffffff.0
 Width: 897
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 360 -600 basechar 0
-AnchorPoint: "Anchor-0" 400 1060 basechar 0
+AnchorPoint: "Anchor-1" 360 -840 basechar 0
+AnchorPoint: "Anchor-0" 400 1116 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -31,4 +31,5 @@ SplineSet
  384 -512 384 -512 233 -512 c 0,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0631.fina
+Colour: ffff00
 EndChar

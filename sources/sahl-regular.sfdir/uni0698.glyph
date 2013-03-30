@@ -4,11 +4,12 @@ AltUni2: 00fb8a.ffffffff.0
 Width: 930
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 360 -600 basechar 0
-AnchorPoint: "Anchor-0" 400 1603 basechar 0
+AnchorPoint: "Anchor-1" 360 -840 basechar 0
+AnchorPoint: "Anchor-0" 400 1884 basechar 0
 LayerCount: 2
 Fore
 Refer: 12 1585 N 1 0 0 1 0 0 2
 Refer: 63 -1 N 1 0 0 1 -122 178 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni0698.fina
+Colour: ffff00
 EndChar

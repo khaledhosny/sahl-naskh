@@ -3,8 +3,8 @@ Encoding: 65244 65244 31
 Width: 1106
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 400 -160 basechar 0
-AnchorPoint: "Anchor-0" 300 1550 basechar 0
+AnchorPoint: "Anchor-1" 400 -303 basechar 0
+AnchorPoint: "Anchor-0" 300 1661 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -41,4 +41,5 @@ SplineSet
  87 164 87 164 190.5 187.5 c 128,-1,46
  294 211 294 211 379 252 c 1,0,1
 EndSplineSet
+Colour: ffff00
 EndChar

@@ -3,8 +3,8 @@ Encoding: 1708 1708 427
 Width: 1489
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-1" 600 -160 basechar 0
-AnchorPoint: "Anchor-0" 480 1600 basechar 0
+AnchorPoint: "Anchor-1" 600 -459 basechar 0
+AnchorPoint: "Anchor-0" 480 1937 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -60,4 +60,5 @@ EndSplineSet
 Substitution2: "'medi' Medial Forms in Arabic lookup 5 subtable" uni06AC.medi
 Substitution2: "'init' Initial Forms in Arabic lookup 4 subtable" uni06AC.init
 Substitution2: "'fina' Terminal Forms in Arabic lookup 3 subtable" uni06AC.fina
+Colour: ffff00
 EndChar
