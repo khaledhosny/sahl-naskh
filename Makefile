@@ -1,4 +1,5 @@
-NAME=sahl
+NAME=sahl-naskh
+SHORTNAME=$(subst -,,$(NAME))
 VERSION=1.001
 
 SRC=sources
@@ -8,7 +9,7 @@ DIST=$(NAME)-$(VERSION)
 
 PY=python
 
-define $(NAME)SCRIPT
+define $(SHORTNAME)SCRIPT
 import fontforge, sys
 f = fontforge.open(sys.argv[1])
 if len(sys.argv) > 3:
@@ -17,12 +18,12 @@ f.version = "$(VERSION)"
 f.generate(sys.argv[2], flags=("round", "opentype"))
 endef
 
-export $(NAME)SCRIPT
+export $(SHORTNAME)SCRIPT
 
 FONTS=regular bold
 
-SFD=$(FONTS:%=$(SRC)/$(NAME)-%.sfdir)
-TTF=$(FONTS:%=$(NAME)-%.ttf)
+SFD=$(FONTS:%=$(SRC)/$(SHORTNAME)-%.sfdir)
+TTF=$(FONTS:%=$(SHORTNAME)-%.ttf)
 
 all: ttf
 
@@ -30,7 +31,7 @@ ttf: $(TTF)
 
 %.ttf: $(SRC)/%.sfdir Makefile
 	@echo "Building $@"
-	@$(PY) -c "$$$(NAME)SCRIPT" $< $@
+	@$(PY) -c "$$$(SHORTNAME)SCRIPT" $< $@
 
 dist: $(TTF)
 	@echo "Making dist tarball"
