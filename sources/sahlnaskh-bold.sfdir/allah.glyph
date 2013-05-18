@@ -116,6 +116,7 @@ SplineSet
  1198 2371 1198 2371 1234.5 2412.5 c 128,-1,137
  1271 2454 1271 2454 1325 2474 c 1,124,125
 EndSplineSet
+LCarets2: 3 2210 1660 1040 
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 7 subtable" uni0627 uni0644.init uni0644.medi uni06C1.fina
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 7 subtable" uni0627 uni0644.init uni0644.medi uni0647.fina
 EndChar

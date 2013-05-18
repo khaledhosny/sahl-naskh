@@ -52,5 +52,6 @@ SplineSet
  769 290 769 290 600 168 c 1,55,56
  860 181 860 181 1028 211 c 1,51,52
 EndSplineSet
+LCarets2: 1 780 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni076A.init uni0627.fina
 EndChar

@@ -11,5 +11,6 @@ LayerCount: 2
 Fore
 Refer: 51 65276 N 1 0 0 1 0 0 3
 Refer: 696 -1 N 1 0 0 1 811 -1750 2
+LCarets2: 1 920 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0644.medi uni0673.fina
 EndChar
