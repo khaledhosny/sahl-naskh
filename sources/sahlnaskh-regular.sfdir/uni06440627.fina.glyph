@@ -2,6 +2,7 @@ StartChar: uni06440627.fina
 Encoding: 65276 65276 51
 Width: 1337
 GlyphClass: 3
+UnlinkRmOvrlpSave: 1
 Flags: W
 AnchorPoint: "Anchor-3" 977 -160 baselig 0
 AnchorPoint: "Anchor-2" 977 1740 baselig 0
@@ -73,6 +74,6 @@ SplineSet
  1233 -24 1233 -24 1125 30 c 1,42,43
  1036 132 1036 132 1002 534 c 1,13,14
 EndSplineSet
-LCarets2: 1 920 
+LCarets2: 1 780 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0644.medi uni0627.fina
 EndChar
