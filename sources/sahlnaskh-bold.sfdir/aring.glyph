@@ -1,0 +1,11 @@
+StartChar: aring
+Encoding: 229 229 915
+Width: 1227
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 817 97 N 1 0 0 1 0 0 3
+Refer: 944 730 N 1 0 0 1 279 0 2
+Kerns2: 941 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  939 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  841 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  759 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  754 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

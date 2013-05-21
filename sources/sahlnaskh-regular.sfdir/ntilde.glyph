@@ -1,0 +1,11 @@
+StartChar: ntilde
+Encoding: 241 241 927
+Width: 1321
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 830 110 N 1 0 0 1 0 0 3
+Refer: 945 732 N 1 0 0 1 80 0 2
+Kerns2: 941 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  939 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  841 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  759 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  754 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

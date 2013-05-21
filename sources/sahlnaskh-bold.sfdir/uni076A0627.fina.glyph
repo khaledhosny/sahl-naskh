@@ -11,11 +11,11 @@ AnchorPoint: "Anchor-2" 160 1500 baselig 1
 LayerCount: 2
 Fore
 SplineSet
-803 1040 m 1
- 803 1157 l 1
- 1347 1157 l 1
- 1347 1040 l 1
- 803 1040 l 1
+803 1040 m 1,0,-1
+ 803 1157 l 1,1,-1
+ 1347 1157 l 1,2,-1
+ 1347 1040 l 1,3,-1
+ 803 1040 l 1,0,-1
 EndSplineSet
 Refer: 51 65276 N 1 0 0 1 0 0 3
 LCarets2: 1 780 

@@ -1,0 +1,11 @@
+StartChar: yacute
+Encoding: 253 253 939
+Width: 1186
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 841 121 N 1 0 0 1 0 0 3
+Refer: 866 180 N 1 0 0 1 133 0 2
+Kerns2: 953 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  950 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  766 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  764 -184 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

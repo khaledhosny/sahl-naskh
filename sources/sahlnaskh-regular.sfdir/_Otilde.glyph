@@ -1,0 +1,11 @@
+StartChar: Otilde
+Encoding: 213 213 899
+Width: 1520
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 799 79 N 1 0 0 1 0 0 3
+Refer: 945 732 N 1 0 0 1 156 338 2
+Kerns2: 907 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  884 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  883 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  882 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  881 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  880 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  879 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  878 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  809 -61 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  808 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  807 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  806 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  804 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  785 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  783 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

@@ -60,6 +60,7 @@ Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 4"  {"'init' Initial Forms 
 Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 5"  {"'medi' Medial Forms in Arabic lookup 5 subtable"  } ['medi' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 6"  {"'rlig' Required Ligatures in Arabic lookup 6 subtable"  } ['rlig' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 7"  {"'liga' Standard Ligatures in Arabic lookup 7 subtable"  } ['liga' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Arabic lookup 0"  {"'mark' Mark Positioning in Arabic lookup 0 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning in Arabic lookup 1"  {"'mark' Mark Positioning in Arabic lookup 1 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 2"  {"'mkmk' Mark to Mark in Arabic lookup 2 subtable"  } ['mkmk' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]

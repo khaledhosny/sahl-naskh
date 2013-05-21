@@ -1,0 +1,11 @@
+StartChar: Ucircumflex
+Encoding: 219 219 905
+Width: 1530
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 805 85 N 1 0 0 1 0 0 3
+Refer: 943 710 N 1 0 0 1 227 338 2
+Kerns2: 883 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  882 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  881 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  880 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  879 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  878 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  785 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

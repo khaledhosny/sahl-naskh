@@ -1,0 +1,15 @@
+StartChar: fraction
+Encoding: 8260 8260 957
+Width: 127
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-233 0 m 1,0,-1
+ -369 0 l 1,1,-1
+ 362 1462 l 1,2,-1
+ 496 1462 l 1,3,-1
+ -233 0 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,11 @@
+StartChar: otilde
+Encoding: 245 245 931
+Width: 1182
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 831 111 N 1 0 0 1 0 0 3
+Refer: 945 732 N 1 0 0 1 -5 0 2
+Kerns2: 941 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  939 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  841 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

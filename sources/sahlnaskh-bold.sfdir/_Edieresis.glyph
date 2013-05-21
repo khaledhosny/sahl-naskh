@@ -1,0 +1,11 @@
+StartChar: Edieresis
+Encoding: 203 203 889
+Width: 1337
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 789 69 N 1 0 0 1 0 0 3
+Refer: 854 168 N 1 0 0 1 98 338 2
+Kerns2: 907 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  809 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  807 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  806 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

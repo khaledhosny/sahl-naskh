@@ -1,0 +1,11 @@
+StartChar: agrave
+Encoding: 224 224 910
+Width: 1153
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 817 97 N 1 0 0 1 0 0 3
+Refer: 816 96 N 1 0 0 1 -124 0 2
+Kerns2: 941 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  939 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  841 -41 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  759 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  754 -82 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

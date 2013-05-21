@@ -1,0 +1,30 @@
+StartChar: asterisk
+Encoding: 42 42 762
+Width: 1028
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+72 1237 m 1,0,-1
+ 164 1444 l 1,1,-1
+ 469 1223 l 1,2,-1
+ 401 1556 l 1,3,-1
+ 631 1556 l 1,4,-1
+ 557 1227 l 1,5,-1
+ 864 1440 l 1,6,-1
+ 956 1235 l 1,7,-1
+ 637 1155 l 1,8,-1
+ 956 1073 l 1,9,-1
+ 864 870 l 1,10,-1
+ 557 1083 l 1,11,-1
+ 629 752 l 1,12,-1
+ 401 752 l 1,13,-1
+ 467 1085 l 1,14,-1
+ 164 868 l 1,15,-1
+ 72 1071 l 1,16,-1
+ 391 1155 l 1,17,-1
+ 72 1237 l 1,0,-1
+EndSplineSet
+Kerns2: 953 -246 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  950 -246 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  884 -164 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  883 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  882 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  881 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  880 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  879 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  878 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  785 -102 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  766 -246 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  764 -246 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

@@ -1,0 +1,18 @@
+StartChar: asciicircum
+Encoding: 94 94 814
+Width: 1145
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+526 1462 m 1,0,-1
+ 614 1462 l 1,1,-1
+ 1049 537 l 1,2,-1
+ 889 537 l 1,3,-1
+ 569 1239 l 1,4,-1
+ 254 537 l 1,5,-1
+ 94 537 l 1,6,-1
+ 526 1462 l 1,0,-1
+EndSplineSet
+EndChar
