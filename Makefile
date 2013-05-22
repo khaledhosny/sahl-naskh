@@ -29,12 +29,12 @@ web: $(WTTF) $(WOFF) $(EOTS) $(CSSS)
 
 %.ttf: $(SRC)/%.sfdir Makefile $(BUILD)
 	@echo "Building $@"
-	@$(PY) $(BUILD) $< $@
+	@$(PY) $(BUILD) $< $@ $(VERSION)
 
 $(WEB)/%.ttf: $(SRC)/%.sfdir Makefile $(BUILDWEB)
 	@echo "   FF\t$@"
 	@mkdir -p $(WEB)
-	@$(PY) $(BUILDWEB) $< $@
+	@$(PY) $(BUILDWEB) $< $@ $(VERSION)
 
 $(WEB)/%.woff: $(WEB)/%.ttf
 	@echo "   FF\t$@"
