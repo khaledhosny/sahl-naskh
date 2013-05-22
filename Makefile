@@ -2,26 +2,49 @@ NAME=sahl-naskh
 SHORTNAME=$(subst -,,$(NAME))
 VERSION=1.001
 
+TOOLS=tools
 SRC=sources
+WEB=webfonts
 DOC=documentation
 DOCSRC=$(DOC)/$(DOC)-$(SRC)
 DIST=$(NAME)-$(VERSION)
 
 PY=python
-BUILD=tools/build.py
+BUILD=$(TOOLS)/build.py
+BUILDWEB=$(TOOLS)/build-web.py
+SFNTTOOL=sfnttool
 
 FONTS=regular bold
 
 SFD=$(FONTS:%=$(SRC)/$(SHORTNAME)-%.sfdir)
 TTF=$(FONTS:%=$(SHORTNAME)-%.ttf)
+WTTF=$(FONTS:%=$(WEB)/$(SHORTNAME)-%.ttf)
+WOFF=$(FONTS:%=$(WEB)/$(SHORTNAME)-%.woff)
+EOTS=$(FONTS:%=$(WEB)/$(SHORTNAME)-%.eot)
 
-all: ttf
+all: ttf web
 
 ttf: $(TTF)
+web: $(WTTF) $(WOFF) $(EOTS) $(CSSS)
 
-%.ttf: $(SRC)/%.sfdir Makefile
+%.ttf: $(SRC)/%.sfdir Makefile $(BUILD)
 	@echo "Building $@"
 	@$(PY) $(BUILD) $< $@
+
+$(WEB)/%.ttf: $(SRC)/%.sfdir Makefile $(BUILDWEB)
+	@echo "   FF\t$@"
+	@mkdir -p $(WEB)
+	@$(PY) $(BUILDWEB) $< $@
+
+$(WEB)/%.woff: $(WEB)/%.ttf
+	@echo "   FF\t$@"
+	@mkdir -p $(WEB)
+	@$(SFNTTOOL) -w $< $@
+
+$(WEB)/%.eot: $(WEB)/%.ttf
+	@echo "   FF\t$@"
+	@mkdir -p $(WEB)
+	@$(SFNTTOOL) -e -x $< $@
 
 dist: $(TTF)
 	@echo "Making dist tarball"
