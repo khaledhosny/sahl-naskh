@@ -53,7 +53,7 @@ dist: $(TTF)
 	@mkdir -p $(DIST)/$(DOCSRC)
 	@cp $(SFD) $(DIST)/$(SRC)
 	@cp $(TTF) $(DIST)
-	@cp -r Makefile OFL-FAQ.txt OFL.txt $(DIST)
+	@cp -r Makefile LICENSE.txt $(DIST)
 	@cp README.md $(DIST)/README.txt
 	@zip -r $(DIST).zip $(DIST)
 
