@@ -1,4 +1,4 @@
-import fontforge
+from sortsmill import ffcompat as fontforge
 import sys
 
 font = fontforge.open(sys.argv[1])
