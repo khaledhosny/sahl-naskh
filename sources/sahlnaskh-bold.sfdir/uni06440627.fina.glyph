@@ -2,7 +2,6 @@ StartChar: uni06440627.fina
 Encoding: 65276 65276 51
 Width: 1480
 GlyphClass: 3
-UnlinkRmOvrlpSave: 1
 Flags: W
 AnchorPoint: "Anchor-3" 1240 -160 baselig 0
 AnchorPoint: "Anchor-2" 1100 1740 baselig 0
@@ -65,7 +64,7 @@ SplineSet
  141 74 l 1,22,23
  373 134 373 134 500 188 c 0,24,25
  779 308 779 308 898 612 c 1,26,27
- 946 748 946 748 946 954 c 128,-1,29
+ 946 748 946 748 946 954 c 0,28,29
  946 1160 946 1160 948 1436 c 1,30,31
  1003 1468 1003 1468 1072 1515 c 1,32,33
  1140 1560 1140 1560 1204 1597 c 1,34,35
@@ -78,6 +77,6 @@ SplineSet
  1221 -20 1221 -20 1134 99 c 1,47,48
  1086 242 1086 242 1080 597 c 1,13,14
 EndSplineSet
-LCarets2: 1 780 
+LCarets2: 1 860 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0644.medi uni0627.fina
 EndChar

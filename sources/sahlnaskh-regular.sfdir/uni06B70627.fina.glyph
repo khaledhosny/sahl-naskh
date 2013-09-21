@@ -3,14 +3,14 @@ Encoding: 65741 -1 538
 Width: 1337
 GlyphClass: 3
 Flags: W
+AnchorPoint: "Anchor-3" 1100 -160 baselig 0
+AnchorPoint: "Anchor-2" 1054 2150 baselig 0
 AnchorPoint: "Anchor-3" 400 -160 baselig 1
-AnchorPoint: "Anchor-3" 977 -160 baselig 0
-AnchorPoint: "Anchor-2" 974 2150 baselig 0
 AnchorPoint: "Anchor-2" 160 1500 baselig 1
 LayerCount: 2
 Fore
 Refer: 51 65276 N 1 0 0 1 0 0 3
-Refer: 688 -1 N 1 0 0 1 428 803 2
-LCarets2: 1 780 
+Refer: 688 -1 N 1 0 0 1 508 803 2
+LCarets2: 1 920 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni06B7.medi uni0627.fina
 EndChar
