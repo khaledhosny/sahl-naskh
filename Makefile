@@ -28,21 +28,21 @@ ttf: $(TTF)
 web: $(WTTF) $(WOFF) $(EOTS) $(CSSS)
 
 %.ttf: $(SRC)/%.sfdir Makefile $(BUILD)
-	@echo "Building\t$@"
+	@echo "Building	$@"
 	@$(PY) $(BUILD) $< $@ $(VERSION)
 
 $(WEB)/%.ttf: $(SRC)/%.sfdir Makefile $(BUILDWEB)
-	@echo "Building\t$@"
+	@echo "Building	$@"
 	@mkdir -p $(WEB)
 	@$(PY) $(BUILDWEB) $< $@ $(VERSION)
 
 $(WEB)/%.woff: $(WEB)/%.ttf
-	@echo "Building\t$@"
+	@echo "Building	$@"
 	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -w $< $@
 
 $(WEB)/%.eot: $(WEB)/%.ttf
-	@echo "Building\t$@"
+	@echo "Building	$@"
 	@mkdir -p $(WEB)
 	@$(SFNTTOOL) -e -x $< $@
 
