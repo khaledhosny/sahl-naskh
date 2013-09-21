@@ -4,13 +4,13 @@ Width: 1247
 GlyphClass: 3
 Flags: W
 AnchorPoint: "Anchor-2" 160 1500 baselig 1
-AnchorPoint: "Anchor-3" 460 -620 baselig 1
+AnchorPoint: "Anchor-3" 300 -200 baselig 1
+AnchorPoint: "Anchor-3" 900 -620 baselig 0
 AnchorPoint: "Anchor-2" 900 1740 baselig 0
-AnchorPoint: "Anchor-3" 1000 -160 baselig 0
 LayerCount: 2
 Fore
 Refer: 50 65275 N 1 0 0 1 0 0 3
-Refer: 107 1620 N 1 0 0 1 246 -1775 2
+Refer: 107 1620 N 1 0 0 1 686 -1775 2
 LCarets2: 1 780 
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 6 subtable" uni0644.init uni0625.fina
 EndChar
