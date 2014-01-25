@@ -1,11 +1,11 @@
 StartChar: uni069B.init.alt
-Encoding: 65882 -1 964
+Encoding: 65882 -1 962
 Width: 1238
 Flags: W
 AnchorPoint: "Anchor-1" 473 -1107 basechar 0
 AnchorPoint: "Anchor-0" 453 915 basechar 0
 LayerCount: 2
 Fore
-Refer: 961 -1 N 1 0 0 1 0 0 3
+Refer: 959 -1 N 1 0 0 1 0 0 3
 Refer: 64 -1 N 1 0 0 1 -116 -52 2
 EndChar

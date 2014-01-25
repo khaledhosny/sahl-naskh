@@ -71,7 +71,7 @@ MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'calt' Yeh after tooth-1"  0 0 0 1
  2 0 0
-  Coverage: 207 uni0633.init uni0633.medi uni0634.init uni0634.medi uni069A.init uni069A.medi uni069B.init uni069B.medi uni069C.init uni069C.medi uni075C.init uni075C.medi uni076D.init uni076D.medi uni06FA.init uni06FA.medi
+  Coverage: 584 uni067E.medi uni0679.medi uni06D0.medi uni06CC.medi uni0626.medi uni0628.medi uni062A.medi uni062B.medi uni0633.init uni0633.medi uni0634.init uni0634.medi uni0646.medi uni064A.medi uni067A.medi uni067B.medi uni067C.medi uni067D.medi uni067F.medi uni0680.medi uni069A.init uni069A.medi uni069B.init uni069B.medi uni069C.init uni069C.medi uni06B9.medi uni06BC.medi uni0750.medi uni0751.medi uni0752.medi uni0753.medi uni0754.medi uni0755.medi uni0756.medi uni075C.init uni075C.medi uni0767.medi uni0768.medi uni0769.medi uni076D.init uni076D.medi uni06CE.medi uni06FA.init uni06FA.medi
   Coverage: 116 uni06CC.fina uni0626.fina uni0649.fina uni064A.fina uni0678.fina uni06CD.fina uni06CE.fina uni06D0.fina uni06D1.fina
  2
   SeqLookup: 0 "Yeh after tooth" 

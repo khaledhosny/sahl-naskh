@@ -1,11 +1,11 @@
 StartChar: uni0626.fina.alt
-Encoding: 65900 -1 980
+Encoding: 65900 -1 978
 Width: 1464
 Flags: W
 AnchorPoint: "Anchor-1" 700 -1154 basechar 0
 AnchorPoint: "Anchor-0" 450 1034 basechar 0
 LayerCount: 2
 Fore
-Refer: 977 -1 N 1 0 0 1 0 0 3
+Refer: 975 -1 N 1 0 0 1 0 0 3
 Refer: 695 -1 N 1 0 0 1 264 -666 2
 EndChar
