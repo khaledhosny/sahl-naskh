@@ -1,0 +1,11 @@
+StartChar: uni0634.medi.alt
+Encoding: 65888 -1 970
+Width: 1250
+Flags: W
+AnchorPoint: "Anchor-1" 453 -343 basechar 0
+AnchorPoint: "Anchor-0" 433 1706 basechar 0
+LayerCount: 2
+Fore
+Refer: 969 -1 N 1 0 0 1 0 0 3
+Refer: 63 -1 N 1 0 0 1 -107 0 2
+EndChar

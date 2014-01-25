@@ -1,0 +1,11 @@
+StartChar: uni076D.init.alt
+Encoding: 65885 -1 967
+Width: 1238
+Flags: W
+AnchorPoint: "Anchor-1" 453 -343 basechar 0
+AnchorPoint: "Anchor-0" 373 1839 basechar 0
+LayerCount: 2
+Fore
+Refer: 961 -1 N 1 0 0 1 0 0 3
+Refer: 684 -1 N 1 0 0 1 112 2 2
+EndChar

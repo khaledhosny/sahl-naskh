@@ -60,6 +60,8 @@ Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 4"  {"'init' Initial Forms 
 Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 5"  {"'medi' Medial Forms in Arabic lookup 5 subtable"  } ['medi' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 6"  {"'rlig' Required Ligatures in Arabic lookup 6 subtable"  } ['rlig' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 7"  {"'liga' Standard Ligatures in Arabic lookup 7 subtable"  } ['liga' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
+Lookup: 1 0 0 "Yeh after tooth"  {"Yeh after tooth-1" ("alt" ) } []
+Lookup: 6 8 0 "'calt' Yeh after tooth"  {"'calt' Yeh after tooth-1"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Arabic lookup 0"  {"'mark' Mark Positioning in Arabic lookup 0 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning in Arabic lookup 1"  {"'mark' Mark Positioning in Arabic lookup 1 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
@@ -67,6 +69,14 @@ Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 2"  {"'mkmk' Mark to Mark 
 Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 3"  {"'mkmk' Mark to Mark in Arabic lookup 3 subtable"  } ['mkmk' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: coverage "'calt' Yeh after tooth-1"  0 0 0 1
+ 2 0 0
+  Coverage: 207 uni0633.init uni0633.medi uni0634.init uni0634.medi uni069A.init uni069A.medi uni069B.init uni069B.medi uni069C.init uni069C.medi uni075C.init uni075C.medi uni076D.init uni076D.medi uni06FA.init uni06FA.medi
+  Coverage: 116 uni06CC.fina uni0626.fina uni0649.fina uni064A.fina uni0678.fina uni06CD.fina uni06CE.fina uni06D0.fina uni06D1.fina
+ 2
+  SeqLookup: 0 "Yeh after tooth" 
+  SeqLookup: 1 "Yeh after tooth" 
+EndFPST
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Pascal Zoghbi " "Droid Arabic Naskh is an Arabic type designed for use in Google+ISIA products such as Google ChromeOS+ISIA and Android+ISIA. Designed to complement the Latin, Greek and Cyrillic provided in the Droid Serif family, the Arabic matches the color, alignment and design detail of the Droid Serif allowing them to be used together for multi-lingual typesetting. This Naskh style is optimized for reading Arabic script on screen. The large +IBgA-loop height+IBkA and +IBgA-tooth height+IBkA help prevent readers from having to zoom web pages to a larger size in order to read them. The traditional Naskh forms are softened for less formal documents such as periodicals and journals. The letterforms structures are based on the calligraphic grammatical rules of the Naskh writing style while drawn with a contemporary feel." "" "" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" 
 GaspTable: 3 8 10 10 7 65535 15 1
 Encoding: UnicodeBmp
