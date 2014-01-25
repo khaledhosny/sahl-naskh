@@ -62,6 +62,8 @@ Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 6"  {"'rlig' Required 
 Lookup: 4 1 1 "'liga' Standard Ligatures in Arabic lookup 7"  {"'liga' Standard Ligatures in Arabic lookup 7 subtable"  } ['liga' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 1 0 0 "Yeh after tooth"  {"Yeh after tooth-1" ("alt" ) } []
 Lookup: 6 8 0 "'calt' Yeh after tooth"  {"'calt' Yeh after tooth-1"  } ['calt' ('DFLT' <'dflt' > 'arab' <'FAR ' 'URD ' 'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "High Hamza Yeah after tooth"  {"High Hamza Yeah after tooth-1" ("alt2" ) } []
+Lookup: 6 8 0 "'calt' High Hamza Yeah after tooth"  {"'calt' High Hamza Yeah after tooth-1"  } ['calt' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning in Arabic lookup 0"  {"'mark' Mark Positioning in Arabic lookup 0 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 Lookup: 261 1 0 "'mark' Mark Positioning in Arabic lookup 1"  {"'mark' Mark Positioning in Arabic lookup 1 subtable"  } ['mark' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
@@ -69,6 +71,13 @@ Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 2"  {"'mkmk' Mark to Mark 
 Lookup: 262 1 0 "'mkmk' Mark to Mark in Arabic lookup 3"  {"'mkmk' Mark to Mark in Arabic lookup 3 subtable"  } ['mkmk' ('arab' <'FAR ' 'URD ' 'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: coverage "'calt' High Hamza Yeah after tooth-1"  0 0 0 1
+ 2 0 0
+  Coverage: 526 uni067E.medi.alt uni0679.medi.alt uni06D0.medi.alt uni0649.medi.alt uni06CC.medi.alt uni0626.medi.alt uni0628.medi.alt uni062A.medi.alt uni062B.medi.alt uni0646.medi.alt uni064A.medi.alt uni066E.medi.alt uni067A.medi.alt uni067B.medi.alt uni067C.medi.alt uni067D.medi.alt uni067F.medi.alt uni0680.medi.alt uni06B9.medi.alt uni06BC.medi.alt uni0750.medi.alt uni0751.medi.alt uni0752.medi.alt uni0753.medi.alt uni0754.medi.alt uni0767.medi.alt uni0768.medi.alt uni0769.medi.alt uni06CE.medi.alt uni0755.medi.alt uni0756.medi.alt
+  Coverage: 16 uni0678.fina.alt
+ 1
+  SeqLookup: 1 "High Hamza Yeah after tooth" 
+EndFPST
 ChainSub2: coverage "'calt' Yeh after tooth-1"  0 0 0 1
  2 0 0
   Coverage: 584 uni067E.medi uni0679.medi uni06D0.medi uni06CC.medi uni0626.medi uni0628.medi uni062A.medi uni062B.medi uni0633.init uni0633.medi uni0634.init uni0634.medi uni0646.medi uni064A.medi uni067A.medi uni067B.medi uni067C.medi uni067D.medi uni067F.medi uni0680.medi uni069A.init uni069A.medi uni069B.init uni069B.medi uni069C.init uni069C.medi uni06B9.medi uni06BC.medi uni0750.medi uni0751.medi uni0752.medi uni0753.medi uni0754.medi uni0755.medi uni0756.medi uni075C.init uni075C.medi uni0767.medi uni0768.medi uni0769.medi uni076D.init uni076D.medi uni06CE.medi uni06FA.init uni06FA.medi
